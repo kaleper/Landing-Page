@@ -21,7 +21,7 @@ a, .header, .content1 {
 
 a {
     text-decoration: none;
-    
+    margin-left: 20px;
 }
 .header {
     display:flex;
@@ -29,7 +29,7 @@ a {
     padding: 0px 250px;
 }
 .header-logo{ 
-    font-weight: 900
+    font-weight: 900;
 }
 
 .main-content {
@@ -116,7 +116,6 @@ a {
 .quote {
     flex:1;
     font-style: italic;
-    font-weight: light;
     font-size: 36px;
     max-width: 750px;
     margin: 0px 150px;
