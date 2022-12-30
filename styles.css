@@ -156,3 +156,11 @@ a {
     color:white;
 }
 
+.content5 {
+    display:flex;
+    justify-content: center;
+    padding: 30px;
+    background-color: #1F2937;
+    color:white;
+}
+
